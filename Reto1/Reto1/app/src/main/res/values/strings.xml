@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Reto1</string>
+
+    <string name="Apellido">Apellido</string>
+    <string name="Contrasenya">Contraseña</string>
+    <string name="Gmail">Gmail</string>
+    <string name="FechaNacimiento">FechaNacimiento</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Usuario">Usuario</string>
+
+    <string name="btnRegistrarse">Registrarse</string>
+    <string name="btnLogin">Login</string>
+
+
+    <!--Esto es para hacer el combobox de los workouts -->
+    <string name="spinner_languages">dropDownMenuExample</string>
+    <string-array name="languages">
+        <item>nivel 0</item>
+        <item>nivel 1</item>
+        <item>nivel 2</item>
+        <item>nivel 3</item>
+        <item>nivel 4</item>
+        <item>nivel 5</item>
+    </string-array>
+
+
+</resources>

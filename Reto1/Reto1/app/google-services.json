@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "405100136905",
+    "project_id": "reto1gymapp",
+    "storage_bucket": "reto1gymapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405100136905:android:0a31ecb6bcf9e827330018",
+        "android_client_info": {
+          "package_name": "com.example.reto1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi-tZWYaMco_wSkdlTRHfRwxmfG4uV-R8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
